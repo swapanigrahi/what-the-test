@@ -1,4 +1,4 @@
-# What the test
+# What The Test!
 
 A basic code repo to demonstrate what is under the hood of test frameworks.
 
