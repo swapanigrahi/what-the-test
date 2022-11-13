@@ -5,8 +5,9 @@ messages. And color code the messages
 
 Use: chalk.js
 
-Helpers: ✓ ✕s
- */
+Helpers: ✓ ✕
+
+*/
 
 import { sum, subtract } from "./math.js";
 import chalk from "chalk";
